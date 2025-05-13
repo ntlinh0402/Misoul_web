@@ -43,9 +43,10 @@ ul {
 .btn-primary {
   background-color: #6c2dc7;
   color: white;
-padding: 12.6px 23.1px;
-justify-content: center;
-align-items: flex-start;
+  padding: 12.6px 23.1px;
+  margin-top: 24px;
+  justify-content: center;
+  align-items: flex-start;
 
 }
 
@@ -463,6 +464,7 @@ line-height: 101.85px; /* 121.25% */
 }
 .plan-content {
   padding: 30px;
+  padding-top: 0;
   text-align: center;
 }
 
@@ -470,6 +472,8 @@ line-height: 101.85px; /* 121.25% */
   font-size: 32px;
   font-weight: 700;
   margin: 20px 0;
+  margin-bottom: 8px;
+  text-align: center;
 }
 
 .pricing-note {
